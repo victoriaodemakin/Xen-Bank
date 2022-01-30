@@ -246,8 +246,8 @@
   position: relative;
   margin: auto;
   font-size: 30px;
-  height: 20vh;
-  width: 50%;
+  height: 150px;
+  width: 150px;
   color: #ffffff;
   border-radius: 20px;
   display: grid;
@@ -259,8 +259,8 @@
   position: relative;
   margin: auto;
   font-size: 30px;
-  height: 20vh;
-  width: 50%;
+  height: 150px;
+  width: 150px;
   color: #ffffff;
   border-radius: 20px;
   display: grid;
@@ -271,8 +271,8 @@
   position: relative;
   margin: auto;
   font-size: 30px;
-  height: 20vh;
-  width: 50%;
+  height: 150px;
+  width: 150px;
   color: #ffffff;
   border-radius: 20px;
   display: grid;
@@ -283,8 +283,8 @@
   position: relative;
   margin: auto;
   font-size: 30px;
-  height: 20vh;
-  width: 50%;
+  height: 150px;
+  width: 150px;
   color: #ffffff;
   border-radius: 20px;
   display: grid;
@@ -295,8 +295,8 @@
   position: relative;
   margin: auto;
   font-size: 30px;
-  height: 20vh;
-  width: 50%;
+  height: 150px;
+  width: 150px;
   color: #ffffff;
   border-radius: 20px;
   display: grid;
@@ -307,8 +307,8 @@
   position: relative;
   margin: auto;
   font-size: 30px;
-  height: 20vh;
-  width: 50%;
+  height: 150px;
+  width: 150px;
   color: #ffffff;
   border-radius: 20px;
   display: grid;
